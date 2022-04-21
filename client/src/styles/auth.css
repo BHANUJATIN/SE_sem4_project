@@ -26,3 +26,6 @@
     cursor: pointer;
     opacity: 0.5;
 }
+.my-2 {
+    display: none !important;
+}
